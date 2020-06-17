@@ -59,4 +59,5 @@ public class NoteAdapter extends RecyclerView.Adapter<NoteAdapter.NoteHolder> {
             textViewPriority = itemView.findViewById(R.id.text_view_priority);
         }
     }
+
 }
